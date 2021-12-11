@@ -1,4 +1,4 @@
 # Conferences
-This repository contains the related files of conferences, such as representation files, certificate of attending, oral representaion, and session chair.
+This repository contains the related files of my attending conferences, such as representation files, certificate of attendence, oral representaion, and session chair.
 
 
